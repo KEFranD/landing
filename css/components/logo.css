@@ -1,0 +1,8 @@
+.company_logo {
+  width: 60px;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 12px 12px 12px 12px;
+  padding: 3px;
+}
+
